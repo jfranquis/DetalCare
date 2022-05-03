@@ -1,4 +1,4 @@
-# Projeto DetalCare baseado no NLW - Return from Rockeseat
+# Projeto DetalCare baseado no NLW - Return from Rocketseat
 
 
 - Html
